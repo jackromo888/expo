@@ -35,7 +35,7 @@ public class LocalizationModule: Module {
 
   static func getPreferredLocales() -> [[String: Any?]] {
     return (Locale.preferredLanguages.isEmpty ? [Locale.current.identifier] : Locale.preferredLanguages)
-    .map { (languageTag) -> [String: Any?] in
+    .map { languageTag -> [String: Any?] in
       var locale = Locale.init(identifier: languageTag)
       return [
         "languageTag": languageTag,
