@@ -54,6 +54,7 @@ Pod::Spec.new do |s|
     ss.dependency         "ABI46_0_0ReactCommon"
     ss.dependency         "ABI46_0_0RCTRequired"
     ss.dependency         "ABI46_0_0RCTTypeSafety"
+    ss.dependency         "ABI46_0_0React-hermes"
     ss.dependency         "ABI46_0_0EXAppleAuthentication"
     ss.dependency         "ABI46_0_0EXApplication"
     ss.dependency         "ABI46_0_0EXAV"
@@ -133,7 +134,6 @@ Pod::Spec.new do |s|
     ss.dependency         "Google-Mobile-Ads-SDK"
     ss.dependency         "RCT-Folly"
     ss.dependency         "ABI46_0_0ExpoModulesProvider"
-    ss.dependency         "ABI46_0_0React-hermes"
   end
 
   s.subspec "ExpoOptional" do |ss|
