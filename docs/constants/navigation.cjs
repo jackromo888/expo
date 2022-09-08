@@ -12,15 +12,7 @@ const PAGES_DIR = path.resolve(__dirname, '../pages');
 // TODO(cedric): refactor docs to get rid of the directory lists
 
 /** Manual list of directories to categorize as "EAS content" */
-const easDirectories = [
-  'eas',
-  'build',
-  'app-signing',
-  'build-reference',
-  'submit',
-  'eas-update',
-  'eas-metadata',
-];
+const easDirectories = ['eas', 'build', 'app-signing', 'build-reference', 'submit', 'eas-update'];
 /** Manual list of directories to categorize as "Archive" */
 const archiveDirectories = ['archive'];
 /** Private preview section which isn't linked in the documentation */
@@ -307,6 +299,17 @@ const eas = [
     ],
     { expanded: true }
   ),
+  makeSection(
+    'EAS Metadata',
+    [
+      makePage('eas/metadata/index.md'),
+      makePage('eas/metadata/getting-started.md'),
+      makePage('eas/metadata/config.md'),
+      makePage('eas/metadata/schema.md'),
+      makePage('eas/metadata/faq.md'),
+    ],
+    { expanded: true }
+  ),
 ];
 
 const preview = [
@@ -346,15 +349,6 @@ const archive = [
     {
       expanded: true,
     }
-  ),
-  makeSection(
-    'EAS Metadata',
-    [
-      makePage('eas-metadata/introduction.md'),
-      makePage('eas-metadata/getting-started.md'),
-      // makePage('eas-metadata/store-json.md'), Disabled due to missing config overview
-    ],
-    { expanded: true }
   ),
 ];
 
