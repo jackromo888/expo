@@ -152,6 +152,7 @@ const general = [
     makePage('guides/sharing-preview-releases.md'),
     makePage('guides/using-hermes.md'),
     makePage('guides/adopting-prebuild.md'),
+    makePage('guides/ios-developer-mode.md'),
   ]),
   makeSection('Expo Module API (Alpha)', [
     makePage('modules/overview.md'),
