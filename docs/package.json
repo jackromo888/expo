@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@docsearch/react": "^3.2.1",
-    "@emotion/react": "^11.9.3",
+    "@emotion/react": "^11.10.4",
     "@expo/styleguide": "^4.1.1",
     "@mdx-js/loader": "^1.6.22",
     "@mdx-js/mdx": "^1.6.22",
