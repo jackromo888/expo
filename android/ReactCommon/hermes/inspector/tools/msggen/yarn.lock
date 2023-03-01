@@ -2434,10 +2434,10 @@ detect-newline@^3.0.0:
   resolved "https://registry.yarnpkg.com/detect-newline/-/detect-newline-3.1.0.tgz#576f5dfc63ae1a192ff192d8ad3af6308991b651"
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
-devtools-protocol@0.0.959523:
-  version "0.0.959523"
-  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.959523.tgz#a7ce62c6b88876081fe5bec866f70e467bc021ba"
-  integrity sha512-taOcAND/oJA5FhJD2I3RA+I8RPdrpPJWwvMBPzTq7Sugev1xTOG3lgtlSfkh5xkjTYw0Ti2CRQq016goFHMoPQ==
+devtools-protocol@0.0.1102555:
+  version "0.0.1102555"
+  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.1102555.tgz#51313366160ac8a38c2780fec08554d70390d9f0"
+  integrity sha512-OmVCJhmZCpab9UW4gKyp8EJ7ZETaCg2FteiTSik6nNF/FmCGVVrIzzzhMBIm1yncM0X/L6f8zk5LFq0JOeE0Mg==
 
 diff-sequences@^26.6.2:
   version "26.6.2"
