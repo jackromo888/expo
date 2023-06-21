@@ -2434,10 +2434,10 @@ detect-newline@^3.0.0:
   resolved "https://registry.yarnpkg.com/detect-newline/-/detect-newline-3.1.0.tgz#576f5dfc63ae1a192ff192d8ad3af6308991b651"
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
-devtools-protocol@0.0.959523:
-  version "0.0.959523"
-  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.959523.tgz#a7ce62c6b88876081fe5bec866f70e467bc021ba"
-  integrity sha512-taOcAND/oJA5FhJD2I3RA+I8RPdrpPJWwvMBPzTq7Sugev1xTOG3lgtlSfkh5xkjTYw0Ti2CRQq016goFHMoPQ==
+devtools-protocol@0.0.1149535:
+  version "0.0.1149535"
+  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.1149535.tgz#a058406b5430adb0822aacbb40de93c629daf37a"
+  integrity sha512-vpM8tGaYz2nrN9n8rvUEhQCgU05ocejO5WIJySsftEHxUahQ/fWuNyPxXuQNBEmaISYyMZkxCunhjtSEyBl/Dg==
 
 diff-sequences@^26.6.2:
   version "26.6.2"
@@ -5543,9 +5543,6 @@ through2@^2.0.0:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/through2/-/through2-2.0.5.tgz#01c1e39eb31d07cb7d03a96a70823260b23132cd"
   integrity sha512-/mrRod8xqpA+IHSLyGCQ2s8SPHiCDEeQJSep1jqLYeEUClOFG2Qsh+4FU6G9VeqpZnGW/Su8LQGc4YKni5rYSQ==
-  dependencies:
-    readable-stream "~2.3.6"
-    xtend "~4.0.1"
 
 timers-browserify@^2.0.4:
   version "2.0.12"
