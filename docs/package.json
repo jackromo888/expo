@@ -21,7 +21,7 @@
     "remove-version": "node --unhandled-rejections=strict ./scripts/remove-version.js"
   },
   "dependencies": {
-    "@docsearch/react": "^3.2.1",
+    "@docsearch/react": "^3.5.2",
     "@emotion/react": "^11.9.3",
     "@expo/styleguide": "^4.1.1",
     "@mdx-js/loader": "^1.6.22",
