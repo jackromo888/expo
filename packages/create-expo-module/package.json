@@ -43,7 +43,7 @@
     "github-username": "^6.0.0",
     "ora": "^5.4.1",
     "prompts": "^2.4.2",
-    "validate-npm-package-name": "^4.0.0"
+    "validate-npm-package-name": "^5.0.1"
   },
   "devDependencies": {
     "@types/ejs": "^3.1.0",
