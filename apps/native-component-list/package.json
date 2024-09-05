@@ -51,9 +51,9 @@
     "@react-navigation/bottom-tabs": "~5.11.1",
     "@react-navigation/drawer": "5.11.4",
     "@react-navigation/material-bottom-tabs": "~5.3.9",
-    "@react-navigation/native": "~5.8.9",
+    "@react-navigation/native": "~6.1.0",
     "@react-navigation/stack": "~5.12.6",
-    "@shopify/flash-list": "1.1.0",
+    "@shopify/flash-list": "1.2.0",
     "@shopify/react-native-skia": "0.1.137",
     "@use-expo/permissions": "^2.0.0",
     "date-format": "^2.0.0",
@@ -166,7 +166,7 @@
     "three": "^0.137.4",
     "url": "^0.11.0",
     "uuid": "^8.3.0",
-    "victory-native": "^36.3.1"
+    "victory-native": "^36.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
