@@ -57,7 +57,7 @@
     "arg": "4.1.0",
     "better-opn": "~3.0.2",
     "bplist-parser": "^0.3.1",
-    "cacache": "^15.3.0",
+    "cacache": "^19.0.0",
     "chalk": "^4.0.0",
     "ci-info": "^3.3.0",
     "debug": "^4.3.4",
