@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@expo/styleguide-native": "^1.0.1",
-    "@react-navigation/native": "^6.0.1",
+    "@react-navigation/native": "^7.0.14",
     "@react-navigation/stack": "^6.0.1",
     "acorn-loose": "^8.1.0",
     "commander": "^8.0.0",
